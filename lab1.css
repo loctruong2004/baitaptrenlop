@@ -1,0 +1,18 @@
+.heading{
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+   
+}
+h2{
+    background-color: rgb(169, 235, 235);
+}
+img{
+    width: 200px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.header{
+    position: relative;
+}
